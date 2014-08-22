@@ -16,7 +16,7 @@ package myworld.com.bigears;
 public class MyFirstGitHub {
 
 	public static void main(String[] args) {
-		System.out.println("Hello world");
+		System.out.println("Hello world !");
 
 	}
 
