@@ -4,7 +4,7 @@
  * 必联（北京）电子商务科技有限公司 版权所有
  * <p>MyFirstGitHub.java</p>
  */
-package myworld.com.bigears;
+package com.bigears;
 
 /**
  * @Project    : myworld
