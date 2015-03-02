@@ -1,7 +1,4 @@
 /*
- * Copyright (c) 2001-2014 Bidlink(Beijing) E-Biz Tech Co.,Ltd.
- * All rights reserved.
- * 必联（北京）电子商务科技有限公司 版权所有
  * <p>SimpleThreads.java</p>
  */
 package com.bigears.concurrent;
@@ -10,7 +7,7 @@ package com.bigears.concurrent;
  * @Project    : myworld
  * @ClassName  : com.bigears.concurrent.SimpleThreads
  * @Description: 一个简单的线程
- * @Author     : shenyang
+ * @Author     : bigears
  * @Date  	   : 2014年11月28日 上午10:48:31 
  */
 public class SimpleThreads {
