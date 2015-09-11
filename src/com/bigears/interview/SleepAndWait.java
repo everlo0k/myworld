@@ -1,10 +1,15 @@
 package com.bigears.interview;
 
+/**
+ * 
+ * @Project    : myworld
+ * @ClassName  : com.bigears.interview.SleepAndWait
+ * @Description: sleep方法和wait方法的区别
+ * @Author     : shenyang
+ * @Date       : 2015年9月11日 上午11:22:52
+ */
 public class SleepAndWait {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		System.out.println("lalalala");
 		new Thread(new Thread1()).start();
