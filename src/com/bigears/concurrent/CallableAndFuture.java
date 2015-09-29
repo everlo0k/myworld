@@ -15,7 +15,7 @@ import java.util.concurrent.Future;
  * @ClassName  : com.bigears.concurrent.CallableAndFuture
  * @Description: CallableAndFuture
  * @Author     : shenyang
- * @Date  	   : 2015年7月21日 上午11:28:57 
+ * @Date  	   : 2015年7月21日 上午11:28:57
  */
 public class CallableAndFuture {
 
