@@ -1,7 +1,7 @@
 /*
  * <p>ClassLoaderTest.java</p>
  */
-package com.bigears.enterprisejava;
+package com.bigears.book.enterprisejava;
 
 /**
  * @Project : myworld

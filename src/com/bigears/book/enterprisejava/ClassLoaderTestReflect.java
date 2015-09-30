@@ -1,7 +1,7 @@
 /*
  * <p>ClassLoaderTestReflect.java</p>
  */
-package com.bigears.enterprisejava;
+package com.bigears.book.enterprisejava;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
