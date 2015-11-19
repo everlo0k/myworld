@@ -35,9 +35,26 @@ public class ThreeItemOperation {
 		System.out.println(b);
 	}	
 	
+	public static void testThree(){
+		
+		int num = 5;
+		char x = 'x';
+		System.out.println(num > 0 ? 100 : x);
+		// 当后两个表达式有一个是 常量表达式(constant expression)时
+		// 另外一个是类型是T时,而常量表达式可以被T表示时(representable in type T)输出结果是T类型
+		// 所以这里100被转换为char,输出d
+
+		int i1 = 100;
+		double d1 = 1.0;
+		System.out.println(num > 0 ? i1 : d1);
+		// i1的类型会被转换为double
+		// 所以这里100被转换为double,输出100.0
+		
+	}
+	
 	public static void main(String[] args) {
 
-		testTwo();
+		testThree();
 
 	}
 
