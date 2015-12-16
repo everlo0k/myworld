@@ -105,7 +105,7 @@ public class ArrayListSortTest {
 		listMonkey.add(m2);
 		listMonkey.add(m3);
 
-		//定义了Comparator比较器用来排序
+		// 定义了Comparator比较器用来排序
 		Comparator<Monkey> p = new Comparator<Monkey>() {
 			@Override
 			public int compare(Monkey o1, Monkey o2) {
